@@ -1,5 +1,5 @@
-<h1 align="left">Hi there 👋, I'm Nikitha</h1>
-<h3 align="left">I'm deep lover of designing , that makes me a UI Developer</h3>
+<h3 align="left">Hi there 👋, I'm Nikitha</h3>
+<h4 align="left">I'm deep lover of designing , that makes me a UI Developer</h4>
 
 - 🔭 I’m currently working on **building beautiful web application with JavaScript**
 
