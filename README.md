@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikitha</h1>
+<h1 align="center">Hi there 👋, I'm Nikitha</h1>
 <h3 align="center">I'm deep lover of designing , that makes me a UI Developer</h3>
 
 - 🔭 I’m currently working on **building beautiful web application with JavaScript**
